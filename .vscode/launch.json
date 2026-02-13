@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/user/Desktop/c-learning",
-      "program": "c:/Users/user/Desktop/c-learning/build/Debug/outDebug",
+      "cwd": "c:/Users/user/Desktop/c-learning/pointer",
+      "program": "c:/Users/user/Desktop/c-learning/pointer/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
