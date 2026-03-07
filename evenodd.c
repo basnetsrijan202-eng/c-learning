@@ -13,5 +13,5 @@ else{
     printf("%d is Odd\n", n);
 }
 
-return 0;x
+return 0;
 }
